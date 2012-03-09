@@ -1,1 +1,3 @@
-Program Plays a Whack-a-Mole style game via a GUI. Relies upon the Creature sub-class of JButton to facilitate the interaction between the player and the moles, called creatures in the code for re-usability. The game offers the user the option to play again or end the program after each attempt to beat the game.
+Program Plays a Whack-a-Mole style game via a GUI. Relies upon the Creature sub-class of JButton to facilitate the 
+interaction between the player and the moles, called creatures in the code for re-usability. The game offers the user 
+the option to play again or end the program after each attempt to beat the game.
